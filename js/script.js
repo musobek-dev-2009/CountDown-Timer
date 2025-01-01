@@ -33,5 +33,5 @@ function startCountdown(targetDate) {
 }
 
 // Countdown tugash sanasini kiriting
-const targetDate = new Date('2024-12-31T23:59:59');
+const targetDate = new Date('2025-12-31T23:59:59');
 startCountdown(targetDate);
